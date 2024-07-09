@@ -9,8 +9,8 @@ function Header() {
                 <Container>
                     <Navbar.Brand href="#home" className="order-1 order-lg-2 hide-1">
                         <a href="https://web.facebook.com/bin.bim.1276" className="mx-1 mx-lg-2" rel="norefferer"><i class="bi bi-facebook vw-1"></i></a>
-                        <a href="facebooklink" className="mx-1 mx-lg-2" rel="norefferer"><i class="bi bi-instagram text-primary-gradient vw-1"></i></a>
-                        <a href="facebooklink" className="mx-1 ms-lg-2" rel="norefferer"><i class="bi bi-github text-dark vw-1"></i></a>
+                        <a href="https://www.instagram.com/bimbimvaliente/" className="mx-1 mx-lg-2" rel="norefferer"><i class="bi bi-instagram text-primary-gradient vw-1"></i></a>
+                        <a href="https://github.com/valientebimbim/" className="mx-1 ms-lg-2" rel="norefferer"><i class="bi bi-github text-dark vw-1"></i></a>
                     </Navbar.Brand>
                     <Navbar.Brand href="#home" className="order-1 order-lg-2 hide-2">
                         Bimbim Valiente

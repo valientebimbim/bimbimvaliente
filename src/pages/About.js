@@ -26,7 +26,7 @@ function About(){
                                             <a href="https://github.com/valientebimbim" target="_blank" className="text-decoration-none poppins-medium" rel="norefferer noreferrer"><p>Github »  https://github.com/valientebimbim</p></a>
                                         </li>
                                         <li>
-                                            <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=jrjtXGjnGXcpMDcWXPRzznDfgjlxlhKdbvXbVWfcDJrDLFTxGMFQlmgnRJWPwNlsmHXMxdNx" target="_blank" className="text-decoration-none poppins-medium" rel="norefferer noreferrer"><p>Gmail »  https://mail.google.com/mail/</p></a>
+                                            <a href="https://www.instagram.com/bimbimvaliente/" target="_blank" className="text-decoration-none poppins-medium" rel="norefferer noreferrer"><p>instagram »  https://www.instagram.com/bimbimvaliente</p></a>
                                         </li>
                                     </ul>
                                 </Card>
